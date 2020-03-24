@@ -9,7 +9,7 @@
 <p>A proposta do exercício era criar uma pagina html que u usuário pudesse informar peso e altura e o sistema iria calcular o seu IMC e também retornar uma avaliação de acordo com esse resultado </p>
 <p>O meu resultado ficou diferente do resultado do professor após a correção mas eu resoli deixar assim porque achei o meu código mais limpo e o layout mais bonito</p>
 
-tem um vídeo da aplicação sendo testada no meu linkedin 
+tem um vídeo da aplicação sendo testada no meu linkedin https://www.linkedin.com/posts/maykonsousa_j%C3%A1-que-o-sono-n%C3%A3o-vem-bora-estudar-neste-activity-6648115305216262144-I053
 
 
 
