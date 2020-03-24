@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body{
+  background: rgb(200, 199, 199);
+}
+
+.container{
+  background: #fff;
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+.table td{
+  padding: 0 10px;
+  text-align: left;
+}
+
+
+
+
+
+
+.seletor{
+  border: solid red 1px;
+}
+.subtítulo{
+  display: inline-block;
+}
